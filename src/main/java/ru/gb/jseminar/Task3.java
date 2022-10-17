@@ -13,17 +13,17 @@ public class Task3 {
 
     }
 
-    public static String download(String url, String localFilename) {
+    public String download(String url, String localFilename) {
 
         return "";
     }
 
-    public static String change(String name, String fileContent) {
+    public String change(String name, String fileContent) {
 
         return "";
     }
 
-    public static void saveOnLocal(String fileName, String fileContent) {
+    public void saveOnLocal(String fileName, String fileContent) {
 
     }
 
